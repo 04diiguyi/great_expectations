@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# great expectation folder
+uncommitted/
+check_data/
+.ge_store_backend_id
+expectation_suite_name.json
+checkpoint.yml
+check_data.json
